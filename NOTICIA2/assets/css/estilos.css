@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&family=Titillium+Web:wght@600&display=swap');
+
+body{
+    background-image: url('../img/binarycode.jpg');
+    background-size: 47%;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    color:#4ca963;
+    font-size: 37px;
+    font-family:'Titillium Web', sans-serif;  
+    border-bottom: #2A6B74 dashed 2px;
+    padding-bottom: 7px;
+    text-transform: capitalize;
+}
+
+h2{
+    color: #4ca963;
+    font-size: 21px;
+    font-family:'Titillium Web', sans-serif;
+
+}
+
+h3{
+    color: #4ca963;
+    font-size: 21px;
+    font-family:'Titillium Web', sans-serif;
+}
+    
+h4{
+    color:#4ca963;
+    font-size: 21px;
+    font-family:'Titillium Web', sans-serif;
+}
+        
+h5{
+    color:#4ca963;
+    font-size: 21px;
+    font-family:'Titillium Web', sans-serif;
+}
+
+p{
+    color: #93BA88;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+blockquote{
+    color: #93BA88;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif ;
+    font-style: italic;
+    border-left: #2A6B74 solid 10px;
+    padding-left: 5px;
+    width: 50%;
+    
+}
+header{
+    background-image: url('../img/quinto.jpg');
+    height: 115px;
+}
+
+footer{
+    background-color:#034150;
+    color: #3a8767;
+    font-size: 30px;
+    font-family: 'Titillium Web', sans-serif;
+    padding-left: 20px;
+    white-space: nowrap;
+
+}
+
+#envoltorio{
+    background-color:rgba(0, 55, 69, 0.85);     
+    width: 60% ;
+    margin: 30px auto 30px auto;
+    /*margin-top: 30;
+    margin-right: auto;
+    margin-bottom: 30px; 
+    margin-left: auto;*/
+    padding: 80px;
+    border-radius: 3px;
+}
+
+.bajada{
+    color: #93BA88;
+    font-size: 27px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.foto_principal {
+    width: 100%;
+}
+
